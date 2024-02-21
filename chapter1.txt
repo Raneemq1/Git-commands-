@@ -1,2 +1,1 @@
-Once upon a time, in a village named "Init", lived a brave adventurer.
-
+Once upon a time, in a town named "Init", lived an enthusiastic explorer named Git.
